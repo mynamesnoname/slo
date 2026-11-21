@@ -1,0 +1,48 @@
+total=81  already=0  todo=81
+[5/81] 48s elapsed, 5 done
+[10/81] 85s elapsed, 10 done
+[15/81] 144s elapsed, 15 done
+[20/81] 195s elapsed, 20 done
+[25/81] 277s elapsed, 25 done
+[30/81] 354s elapsed, 30 done
+[35/81] 390s elapsed, 35 done
+[40/81] 515s elapsed, 40 done
+[45/81] 608s elapsed, 45 done
+[50/81] 670s elapsed, 50 done
+[55/81] 708s elapsed, 55 done
+[60/81] 765s elapsed, 60 done
+[65/81] 818s elapsed, 65 done
+ERROR 39627823505215264 training_set/LRG/282.fits: LLM JSON failed after 3 attempts: None
+[70/81] 845s elapsed, 69 done
+[75/81] 903s elapsed, 74 done
+[80/81] 936s elapsed, 79 done
+[81/81] 960s elapsed, 80 done
+
+=== METRICS ===
+{
+  "n": 80,
+  "type_accuracy": 0.9625,
+  "z_accuracy_600km_s": 0.875,
+  "median_dz": 0.0004815358804948766,
+  "mean_dz": 0.10221958630371797,
+  "median_dv_km_s": 73.95234641502843,
+  "quality_mae": 0.21458750000000001,
+  "quality_exact": 0.7625,
+  "BGS_type_acc": 1.0,
+  "BGS_z_acc": 0.9,
+  "BGS_median_dz": 5.7014337010538596e-05,
+  "BGS_quality_mae": 0.13335,
+  "ELG_type_acc": 0.95,
+  "ELG_z_acc": 0.85,
+  "ELG_median_dz": 0.0007062968594168662,
+  "ELG_quality_mae": 0.425,
+  "LRG_type_acc": 1.0,
+  "LRG_z_acc": 0.8947368421052632,
+  "LRG_median_dz": 0.00022050641532656012,
+  "LRG_quality_mae": 0.21052631578947367,
+  "QSO_type_acc": 0.9047619047619048,
+  "QSO_z_acc": 0.8571428571428571,
+  "QSO_median_dz": 0.0013880397082020046,
+  "QSO_quality_mae": 0.09523809523809523
+}
+saved to results/run1

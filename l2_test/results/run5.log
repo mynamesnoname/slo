@@ -1,0 +1,50 @@
+total=81  already=0  todo=81
+[5/81] 91s elapsed, 5 done
+[10/81] 146s elapsed, 10 done
+[15/81] 232s elapsed, 15 done
+[20/81] 321s elapsed, 20 done
+[25/81] 428s elapsed, 25 done
+[30/81] 478s elapsed, 30 done
+[35/81] 578s elapsed, 35 done
+[40/81] 677s elapsed, 40 done
+[45/81] 736s elapsed, 45 done
+[50/81] 1069s elapsed, 50 done
+[55/81] 1199s elapsed, 55 done
+[60/81] 1318s elapsed, 60 done
+ERROR 39627835572228448 training_set/LRG/293.fits: LLM JSON failed after 3 attempts: None
+[65/81] 1468s elapsed, 64 done
+[70/81] 1544s elapsed, 69 done
+[75/81] 1616s elapsed, 74 done
+ERROR 39627829511459792 training_set/LRG/8.fits: LLM JSON failed after 3 attempts: None
+[80/81] 2140s elapsed, 78 done
+ERROR 39633286355488472 training_set/QSO/4.fits: LLM JSON failed after 3 attempts: None
+[81/81] 2522s elapsed, 78 done
+
+=== METRICS ===
+{
+  "n": 78,
+  "type_accuracy": 0.9487179487179487,
+  "z_accuracy_600km_s": 0.8589743589743589,
+  "median_dz": 0.00023720309902192094,
+  "mean_dz": 0.11380977117852208,
+  "median_dv_km_s": 36.931534116564734,
+  "quality_mae": 0.2777820512820513,
+  "quality_exact": 0.6282051282051282,
+  "BGS_type_acc": 1.0,
+  "BGS_z_acc": 0.85,
+  "BGS_median_dz": 5.7304337796604266e-05,
+  "BGS_quality_mae": 0.13335,
+  "ELG_type_acc": 1.0,
+  "ELG_z_acc": 0.9,
+  "ELG_median_dz": 7.222967534203928e-05,
+  "ELG_quality_mae": 0.35,
+  "LRG_type_acc": 0.9444444444444444,
+  "LRG_z_acc": 0.8333333333333334,
+  "LRG_median_dz": 0.00012566800330665595,
+  "LRG_quality_mae": 0.3888888888888889,
+  "QSO_type_acc": 0.85,
+  "QSO_z_acc": 0.85,
+  "QSO_median_dz": 0.0009667255293824839,
+  "QSO_quality_mae": 0.25
+}
+saved to results/run5

@@ -1,0 +1,29 @@
+# Accuracy on eva_set (from vi_results_table.csv)
+
+## Overall (n = 1068)
+
+- z_correct: 939/1068 = 87.92%
+- type_correct: 971/1068 = 90.92%
+- vi_correct: 888/1068 = 83.15%
+
+## Per target_type
+
+### BGS (n = 229)
+- z_correct: 221/229 = 96.51%
+- type_correct: 209/229 = 91.27%
+- vi_correct: 206/229 = 89.96%
+
+### ELG (n = 280)
+- z_correct: 215/280 = 76.79%
+- type_correct: 250/280 = 89.29%
+- vi_correct: 210/280 = 75.00%
+
+### LRG (n = 280)
+- z_correct: 268/280 = 95.71%
+- type_correct: 266/280 = 95.00%
+- vi_correct: 260/280 = 92.86%
+
+### QSO (n = 279)
+- z_correct: 235/279 = 84.23%
+- type_correct: 246/279 = 88.17%
+- vi_correct: 212/279 = 75.99%

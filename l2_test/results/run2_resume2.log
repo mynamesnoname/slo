@@ -1,0 +1,34 @@
+resumed 77 verdicts from results/run2/verdicts.json
+total=81  already=77  todo=4
+ERROR 39627829511459792 training_set/LRG/8.fits: LLM JSON failed after 3 attempts: None
+ERROR 39633286355488472 training_set/QSO/4.fits: LLM JSON failed after 3 attempts: None
+[4/4] 902s elapsed, 79 done
+
+=== METRICS ===
+{
+  "n": 79,
+  "type_accuracy": 0.9620253164556962,
+  "z_accuracy_600km_s": 0.8860759493670886,
+  "median_dz": 0.0005970009741413929,
+  "mean_dz": 0.06644086950520013,
+  "median_dv_km_s": 79.01546864906844,
+  "quality_mae": 0.2953544303797468,
+  "quality_exact": 0.6455696202531646,
+  "BGS_type_acc": 1.0,
+  "BGS_z_acc": 0.95,
+  "BGS_median_dz": 4.260553212014767e-05,
+  "BGS_quality_mae": 0.09165,
+  "ELG_type_acc": 1.0,
+  "ELG_z_acc": 0.9,
+  "ELG_median_dz": 0.0008639788834819973,
+  "ELG_quality_mae": 0.5,
+  "LRG_type_acc": 0.9473684210526315,
+  "LRG_z_acc": 0.8421052631578947,
+  "LRG_median_dz": 0.00022212538831956063,
+  "LRG_quality_mae": 0.4473684210526316,
+  "QSO_type_acc": 0.9,
+  "QSO_z_acc": 0.85,
+  "QSO_median_dz": 0.00178684009363006,
+  "QSO_quality_mae": 0.15
+}
+saved to results/run2

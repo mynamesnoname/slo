@@ -1,0 +1,69 @@
+total=8  already=0  todo=8
+[5/8] 236s elapsed, 5 done
+ERROR 39627658618740704 training_set/QSO/29.fits: LLM JSON failed after 3 attempts: could not parse JSON from LLM output: {
+  "spectype": "QSO",
+  "redshift": 1.4951,
+  "redshift_err": 0.003,
+  "vi_quality": 4.0,
+  "secure_lines": [
+    {
+      "line": "C IV",
+      "kind": "em",
+      "w_obs": 3866.4,
+      "rest": 1549.0,
+      "sig": 159.4,
+      "z_from_line": 1.4961,
+      "note": "Extremely strong broad emission, clean B band, consistent with C IV at z~1.5."
+    },
+    {
+      "line": "C III]",
+      "kind": "em",
+      "w_obs": 4757.6,
+      "rest": 1909.0,
+      "sig": 67.6,
+      "z_from_line": 1.4922,
+      "note": "Strong broad emission, clean B band, consistent with C III] at z~1.5."
+    },
+    {
+    
+ERROR 39633290021308640 training_set/QSO/145.fits: LLM JSON failed after 3 attempts: could not parse JSON from LLM output: {
+  "spectype": "QSO",
+  "redshift": 1.4765,
+  "redshift_err": 0.003,
+  "vi_quality": 4.0,
+  "secure_lines": [
+    {
+      "line": "[O II]",
+      "kind": "em",
+      "w_obs": 9236.0,
+      "rest": 3727.0,
+      "sig": 101.8,
+      "z_from_line": 1.4781,
+      "note": "Extremely strong emission (sig>100); in OH-zone but huge significance and corroborated by Mg II and C III] at same redshift."
+    },
+    {
+      "line": "Mg II",
+      "kind": "em",
+      "w_obs": 6932.8,
+      "rest": 2800.0,
+      "sig": 11.2,
+      "z_from_line": 1.4760,
+      "note": "Strong broad emission; rest-frame width 
+[8/8] 355s elapsed, 6 done
+
+=== METRICS ===
+{
+  "n": 6,
+  "type_accuracy": 0.8333333333333334,
+  "z_accuracy_600km_s": 0.8333333333333334,
+  "median_dz": 0.003218061675403283,
+  "mean_dz": 0.25363490186870785,
+  "median_dv_km_s": 351.28755901596276,
+  "quality_mae": 0.3333333333333333,
+  "quality_exact": 0.5,
+  "QSO_type_acc": 0.8333333333333334,
+  "QSO_z_acc": 0.8333333333333334,
+  "QSO_median_dz": 0.003218061675403283,
+  "QSO_quality_mae": 0.3333333333333333
+}
+saved to results/run_smoke

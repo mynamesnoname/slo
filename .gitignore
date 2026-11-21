@@ -1,0 +1,16 @@
+DESI/
+eva_set/
+l2_kb_copy/
+training_set/
+
+l1_test/eva_work/audit/
+l1_test/eva_work/redrock_bulk/
+l1_test/work/audit/
+l1_test/work/redrock_bulk/
+l1_test/eva_work/features_cache.pkl
+
+l2_test/eva_results/redrock_all.h5
+l2_test/eva_results/redrock_all.fits
+
+*.pyc
+.env

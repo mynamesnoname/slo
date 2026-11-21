@@ -1,0 +1,272 @@
+total=1068  already=0  todo=1068
+[5/1068] 138s elapsed, 5 done
+[10/1068] 295s elapsed, 10 done
+[15/1068] 430s elapsed, 15 done
+[20/1068] 568s elapsed, 20 done
+[25/1068] 763s elapsed, 25 done
+[30/1068] 892s elapsed, 30 done
+ERROR 39633358170358392 /data2/wbc/slo/eva_set/BGS/11.fits: LLM JSON failed after 3 attempts: None
+[35/1068] 1016s elapsed, 34 done
+[40/1068] 1187s elapsed, 39 done
+[45/1068] 1264s elapsed, 44 done
+[50/1068] 1362s elapsed, 49 done
+[55/1068] 1394s elapsed, 54 done
+[60/1068] 1480s elapsed, 59 done
+[65/1068] 1616s elapsed, 64 done
+[70/1068] 1733s elapsed, 69 done
+[75/1068] 1828s elapsed, 74 done
+[80/1068] 1916s elapsed, 79 done
+[85/1068] 2029s elapsed, 84 done
+[90/1068] 2098s elapsed, 89 done
+[95/1068] 2179s elapsed, 94 done
+[100/1068] 2243s elapsed, 99 done
+[105/1068] 2316s elapsed, 104 done
+[110/1068] 2421s elapsed, 109 done
+[115/1068] 2512s elapsed, 114 done
+[120/1068] 2566s elapsed, 119 done
+[125/1068] 2651s elapsed, 124 done
+[130/1068] 2740s elapsed, 129 done
+[135/1068] 2817s elapsed, 134 done
+[140/1068] 2918s elapsed, 139 done
+[145/1068] 2982s elapsed, 144 done
+[150/1068] 3057s elapsed, 149 done
+[155/1068] 3142s elapsed, 154 done
+[160/1068] 3217s elapsed, 159 done
+[165/1068] 3288s elapsed, 164 done
+[170/1068] 3402s elapsed, 169 done
+[175/1068] 3496s elapsed, 174 done
+[180/1068] 3511s elapsed, 179 done
+[185/1068] 3579s elapsed, 184 done
+[190/1068] 3646s elapsed, 189 done
+[195/1068] 3715s elapsed, 194 done
+[200/1068] 3766s elapsed, 199 done
+[205/1068] 3803s elapsed, 204 done
+[210/1068] 3882s elapsed, 209 done
+[215/1068] 3971s elapsed, 214 done
+[220/1068] 4016s elapsed, 219 done
+[225/1068] 4115s elapsed, 224 done
+[230/1068] 4237s elapsed, 229 done
+[235/1068] 4296s elapsed, 234 done
+[240/1068] 4382s elapsed, 239 done
+[245/1068] 4441s elapsed, 244 done
+[250/1068] 4491s elapsed, 249 done
+[255/1068] 4609s elapsed, 254 done
+[260/1068] 4688s elapsed, 259 done
+[265/1068] 4753s elapsed, 264 done
+[270/1068] 4852s elapsed, 269 done
+[275/1068] 4961s elapsed, 274 done
+[280/1068] 5083s elapsed, 279 done
+[285/1068] 5188s elapsed, 284 done
+[290/1068] 5260s elapsed, 289 done
+[295/1068] 5334s elapsed, 294 done
+[300/1068] 5404s elapsed, 299 done
+[305/1068] 5463s elapsed, 304 done
+ERROR 39633345033802176 /data2/wbc/slo/eva_set/ELG/34.fits: LLM JSON failed after 3 attempts: None
+[310/1068] 5593s elapsed, 308 done
+[315/1068] 5697s elapsed, 313 done
+[320/1068] 5772s elapsed, 318 done
+[325/1068] 5828s elapsed, 323 done
+[330/1068] 5898s elapsed, 328 done
+[335/1068] 5945s elapsed, 333 done
+[340/1068] 6037s elapsed, 338 done
+[345/1068] 6092s elapsed, 343 done
+[350/1068] 6150s elapsed, 348 done
+[355/1068] 6191s elapsed, 353 done
+[360/1068] 6259s elapsed, 358 done
+[365/1068] 6297s elapsed, 363 done
+[370/1068] 6361s elapsed, 368 done
+[375/1068] 6486s elapsed, 373 done
+[380/1068] 6577s elapsed, 378 done
+[385/1068] 6677s elapsed, 383 done
+[390/1068] 6753s elapsed, 388 done
+[395/1068] 6836s elapsed, 393 done
+[400/1068] 6894s elapsed, 398 done
+[405/1068] 6998s elapsed, 403 done
+[410/1068] 7068s elapsed, 408 done
+[415/1068] 7149s elapsed, 413 done
+[420/1068] 7217s elapsed, 418 done
+[425/1068] 7264s elapsed, 423 done
+[430/1068] 7344s elapsed, 428 done
+[435/1068] 7396s elapsed, 433 done
+[440/1068] 7466s elapsed, 438 done
+[445/1068] 7520s elapsed, 443 done
+[450/1068] 7613s elapsed, 448 done
+[455/1068] 7674s elapsed, 453 done
+[460/1068] 7739s elapsed, 458 done
+[465/1068] 7825s elapsed, 463 done
+[470/1068] 7897s elapsed, 468 done
+[475/1068] 7972s elapsed, 473 done
+[480/1068] 8041s elapsed, 478 done
+[485/1068] 8160s elapsed, 483 done
+[490/1068] 8250s elapsed, 488 done
+[495/1068] 8307s elapsed, 493 done
+[500/1068] 8384s elapsed, 498 done
+[505/1068] 8444s elapsed, 503 done
+[510/1068] 8609s elapsed, 508 done
+ERROR 39627670673166752 /data2/wbc/slo/eva_set/ELG/281.fits: LLM JSON failed after 3 attempts: None
+[515/1068] 8977s elapsed, 512 done
+[520/1068] 9230s elapsed, 517 done
+ERROR 39627652608300632 /data2/wbc/slo/eva_set/LRG/5.fits: LLM JSON failed after 3 attempts: None
+ERROR 39627700809241448 /data2/wbc/slo/eva_set/LRG/6.fits: LLM JSON failed after 3 attempts: None
+[525/1068] 9321s elapsed, 520 done
+ERROR 39627817427665752 /data2/wbc/slo/eva_set/LRG/9.fits: LLM JSON failed after 3 attempts: None
+[530/1068] 9405s elapsed, 524 done
+ERROR 39627646593665152 /data2/wbc/slo/eva_set/LRG/10.fits: LLM JSON failed after 3 attempts: None
+[535/1068] 9476s elapsed, 528 done
+[540/1068] 9573s elapsed, 533 done
+[545/1068] 9653s elapsed, 538 done
+[550/1068] 9763s elapsed, 543 done
+[555/1068] 9932s elapsed, 548 done
+[560/1068] 10079s elapsed, 553 done
+ERROR 39627688746420810 /data2/wbc/slo/eva_set/LRG/31.fits: LLM JSON failed after 3 attempts: None
+[565/1068] 10209s elapsed, 557 done
+[570/1068] 10281s elapsed, 562 done
+[575/1068] 10374s elapsed, 567 done
+[580/1068] 10520s elapsed, 572 done
+ERROR 39627688754811000 /data2/wbc/slo/eva_set/LRG/53.fits: LLM JSON failed after 3 attempts: None
+[585/1068] 10628s elapsed, 576 done
+[590/1068] 10753s elapsed, 581 done
+[595/1068] 10948s elapsed, 586 done
+[600/1068] 11047s elapsed, 591 done
+ERROR 39627841591054576 /data2/wbc/slo/eva_set/LRG/79.fits: LLM JSON failed after 3 attempts: None
+[605/1068] 11299s elapsed, 595 done
+[610/1068] 11386s elapsed, 600 done
+[615/1068] 11494s elapsed, 605 done
+[620/1068] 11720s elapsed, 610 done
+[625/1068] 11887s elapsed, 615 done
+[630/1068] 12075s elapsed, 620 done
+ERROR 39627835555450952 /data2/wbc/slo/eva_set/LRG/112.fits: LLM JSON failed after 3 attempts: None
+[635/1068] 12195s elapsed, 624 done
+[640/1068] 12470s elapsed, 629 done
+ERROR 39627694744280704 /data2/wbc/slo/eva_set/LRG/124.fits: LLM JSON failed after 3 attempts: None
+[645/1068] 12559s elapsed, 633 done
+[650/1068] 12760s elapsed, 638 done
+[655/1068] 12866s elapsed, 643 done
+[660/1068] 13043s elapsed, 648 done
+ERROR 39627646564311392 /data2/wbc/slo/eva_set/LRG/143.fits: LLM JSON failed after 3 attempts: None
+[665/1068] 13153s elapsed, 652 done
+[670/1068] 13454s elapsed, 657 done
+[675/1068] 13747s elapsed, 662 done
+[680/1068] 13925s elapsed, 667 done
+ERROR 39627817457026112 /data2/wbc/slo/eva_set/LRG/168.fits: LLM JSON failed after 3 attempts: None
+ERROR 39627841620412280 /data2/wbc/slo/eva_set/LRG/173.fits: LLM JSON failed after 3 attempts: None
+[685/1068] 14030s elapsed, 670 done
+[690/1068] 14135s elapsed, 675 done
+[695/1068] 14230s elapsed, 680 done
+[700/1068] 14406s elapsed, 685 done
+ERROR 39627694773641040 /data2/wbc/slo/eva_set/LRG/182.fits: LLM JSON failed after 3 attempts: None
+[705/1068] 14563s elapsed, 689 done
+[710/1068] 14700s elapsed, 694 done
+[715/1068] 14839s elapsed, 699 done
+[720/1068] 14956s elapsed, 704 done
+[725/1068] 15083s elapsed, 709 done
+[730/1068] 15221s elapsed, 714 done
+[735/1068] 15410s elapsed, 719 done
+ERROR 39627865758633912 /data2/wbc/slo/eva_set/LRG/217.fits: LLM JSON failed after 3 attempts: None
+[740/1068] 15513s elapsed, 723 done
+[745/1068] 15612s elapsed, 728 done
+[750/1068] 15811s elapsed, 733 done
+[755/1068] 15964s elapsed, 738 done
+ERROR 39627817440252760 /data2/wbc/slo/eva_set/LRG/238.fits: LLM JSON failed after 3 attempts: None
+[760/1068] 16043s elapsed, 742 done
+[765/1068] 16181s elapsed, 747 done
+[770/1068] 16283s elapsed, 752 done
+[775/1068] 16491s elapsed, 757 done
+[780/1068] 16674s elapsed, 762 done
+[785/1068] 16758s elapsed, 767 done
+[790/1068] 16851s elapsed, 772 done
+[795/1068] 16974s elapsed, 777 done
+[800/1068] 17193s elapsed, 782 done
+ERROR 39627676675218816 /data2/wbc/slo/eva_set/LRG/292.fits: LLM JSON failed after 3 attempts: None
+[805/1068] 17307s elapsed, 786 done
+[810/1068] 17464s elapsed, 791 done
+ERROR 39627688733838529 /data2/wbc/slo/eva_set/LRG/297.fits: LLM JSON failed after 3 attempts: None
+ERROR 39628505989777368 /data2/wbc/slo/eva_set/QSO/3.fits: LLM JSON failed after 3 attempts: None
+[815/1068] 17574s elapsed, 794 done
+[820/1068] 17631s elapsed, 799 done
+[825/1068] 17679s elapsed, 804 done
+[830/1068] 17798s elapsed, 809 done
+[835/1068] 17886s elapsed, 814 done
+[840/1068] 18025s elapsed, 819 done
+ERROR 39628191773492928 /data2/wbc/slo/eva_set/QSO/22.fits: LLM JSON failed after 3 attempts: None
+[845/1068] 18119s elapsed, 823 done
+[850/1068] 18224s elapsed, 828 done
+ERROR 39633331523948144 /data2/wbc/slo/eva_set/QSO/31.fits: LLM JSON failed after 3 attempts: None
+[855/1068] 18365s elapsed, 832 done
+ERROR 39632940119884968 /data2/wbc/slo/eva_set/QSO/49.fits: LLM JSON failed after 3 attempts: None
+[860/1068] 18546s elapsed, 836 done
+[865/1068] 18699s elapsed, 841 done
+[870/1068] 18779s elapsed, 846 done
+[875/1068] 18919s elapsed, 851 done
+[880/1068] 19033s elapsed, 856 done
+[885/1068] 19166s elapsed, 861 done
+[890/1068] 19232s elapsed, 866 done
+[895/1068] 19324s elapsed, 871 done
+ERROR 39632950484009608 /data2/wbc/slo/eva_set/QSO/82.fits: LLM JSON failed after 3 attempts: None
+[900/1068] 19413s elapsed, 875 done
+[905/1068] 19492s elapsed, 879 done
+[910/1068] 19582s elapsed, 884 done
+[915/1068] 19664s elapsed, 889 done
+[920/1068] 19743s elapsed, 894 done
+[925/1068] 19813s elapsed, 899 done
+[930/1068] 19860s elapsed, 904 done
+[935/1068] 19915s elapsed, 909 done
+[940/1068] 19990s elapsed, 914 done
+[945/1068] 20066s elapsed, 919 done
+[950/1068] 20147s elapsed, 923 done
+[955/1068] 20198s elapsed, 928 done
+[960/1068] 20298s elapsed, 933 done
+[965/1068] 20357s elapsed, 938 done
+[970/1068] 20448s elapsed, 943 done
+[975/1068] 20555s elapsed, 948 done
+[980/1068] 20658s elapsed, 953 done
+[985/1068] 20888s elapsed, 958 done
+[990/1068] 21030s elapsed, 963 done
+ERROR 39628505817811968 /data2/wbc/slo/eva_set/QSO/188.fits: LLM JSON failed after 3 attempts: None
+[995/1068] 21162s elapsed, 967 done
+[1000/1068] 21257s elapsed, 972 done
+[1005/1068] 21364s elapsed, 977 done
+ERROR 39627694761059089 /data2/wbc/slo/eva_set/QSO/208.fits: LLM JSON failed after 3 attempts: None
+[1010/1068] 21467s elapsed, 981 done
+[1015/1068] 21575s elapsed, 986 done
+[1020/1068] 21657s elapsed, 991 done
+[1025/1068] 21743s elapsed, 996 done
+ERROR 39627676687795264 /data2/wbc/slo/eva_set/QSO/218.fits: LLM JSON failed after 3 attempts: None
+[1030/1068] 21793s elapsed, 1000 done
+[1035/1068] 21821s elapsed, 1005 done
+[1040/1068] 21916s elapsed, 1010 done
+[1045/1068] 21982s elapsed, 1015 done
+[1050/1068] 22051s elapsed, 1020 done
+[1055/1068] 22158s elapsed, 1025 done
+[1060/1068] 22217s elapsed, 1030 done
+[1065/1068] 22266s elapsed, 1035 done
+[1068/1068] 22460s elapsed, 1038 done
+
+=== METRICS ===
+{
+  "n": 1040,
+  "type_accuracy": 0.95,
+  "z_accuracy_600km_s": 0.8730769230769231,
+  "median_dz": 0.00011054870275051254,
+  "mean_dz": 0.08584693363859466,
+  "median_dv_km_s": 19.789082281629568,
+  "quality_mae": 0.3785586538461539,
+  "quality_exact": 0.5894230769230769,
+  "BGS_type_acc": 0.9868421052631579,
+  "BGS_z_acc": 0.9692982456140351,
+  "BGS_median_dz": 3.7836922956946406e-05,
+  "BGS_quality_mae": 0.11038157894736843,
+  "ELG_type_acc": 0.9712230215827338,
+  "ELG_z_acc": 0.7805755395683454,
+  "ELG_median_dz": 6.12825328684119e-05,
+  "ELG_quality_mae": 0.7176258992805755,
+  "LRG_type_acc": 0.9657794676806084,
+  "LRG_z_acc": 0.9543726235741445,
+  "LRG_median_dz": 0.0001021031310872722,
+  "LRG_quality_mae": 0.36958174904942964,
+  "QSO_type_acc": 0.8819188191881919,
+  "QSO_z_acc": 0.8081180811808119,
+  "QSO_median_dz": 0.0013990623524788859,
+  "QSO_quality_mae": 0.26507011070110703
+}
+saved to /data2/wbc/slo/l2_test/eva_results/run3
